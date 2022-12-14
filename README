@@ -1,7 +1,12 @@
 DicoSanté 
 
-Dico Santé est un outil qui permet aux utilisateurs d’avoir à disposition un dictionnaire sur les aliments du monde entier, 
-tout en profitant des options qui leur permettent d’améliorer la gestion quotidienne.
+Dico Santé est un outil qui permet aux utilisateurs d’avoir à disposition un dictionnaire sur les aliments du monde entier, tout en profitant des options qui leur permettent d’améliorer la gestion quotidienne.
+
+L’utilisateur en recherchant le produit, peut obtenir des informations sur les apports caloriques de l’aliment concerné. Il peut également enregistrer l’aliment recherché dans sa liste de favoris, et ainsi profiter d’une proposition de recette personnalisée.
+L’utilisateur peut surtout comparer le prix de l’aliment parmi différents points de vente.
+
+Nous catégorisons également des aliments par saison, ainsi de pouvoir favoriser le circuit court et réduire l’emprunt carbone.
+
 
 Les membres de l'équipe :
 Guangyi HUANG occupe la place du product owner
